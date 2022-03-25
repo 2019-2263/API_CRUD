@@ -1,0 +1,11 @@
+.tbl-full{
+    width: 100%;
+}
+.tbl-75{
+    width: 75%;
+}
+.wrapper{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
